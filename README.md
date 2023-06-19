@@ -20,9 +20,8 @@ This repository contains Terraform code to automate the deployment of an applica
 ### Usage
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/example/terraform-app.git
-   cd terraform-app
+   ```bash https://github.com/hem9/Cint-CodeExercise.git
+   git clone 
    ```
 
 2. Initialize the Terraform configuration:
